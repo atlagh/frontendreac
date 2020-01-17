@@ -31,33 +31,33 @@ export const friends = [
     },
     {
         id: 6,
-        name: 'Col mickealson',
-        email:'Col@gmail.com',
+        name: 'Finn mickealson',
+        email:'Finn@gmail.com',
         robot: 'https://robohash.org/finn',
     },
     {
         id: 7,
-        name: 'Col mickealson',
-        email:'Col@gmail.com',
-        robot: 'https://robohash.org/james',
+        name: 'Bekah mickealson',
+        email:'Bekah@gmail.com',
+        robot: 'https://robohash.org/bekah',
     },
     {
         id: 8,
-        name: 'Col mickealson',
-        email:'Col@gmail.com',
-        robot: 'https://robohash.org/jhbv',
+        name: 'count mickealson',
+        email:'Count@gmail.com',
+        robot: 'https://robohash.org/count',
     },
     {
         id: 9,
-        name: 'Col mickealson',
-        email:'Col@gmail.com',
-        robot: 'https://robohash.org/khbjhv',
+        name: 'Count mickealson',
+        email:'Count@gmail.com',
+        robot: 'https://robohash.org/count',
     },
     {
         id: 10,
-        name: 'Col mickealson',
-        email:'Col@gmail.com',
-        robot: 'https://robohash.org/jutfytc',
+        name: 'Dracula mickealson',
+        email:'Dracula@gmail.com',
+        robot: 'https://robohash.org/Dracula',
     }
 
 
