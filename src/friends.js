@@ -43,9 +43,9 @@ export const friends = [
     },
     {
         id: 8,
-        name: 'count mickealson',
-        email:'Count@gmail.com',
-        robot: 'https://robohash.org/count',
+        name: 'Amine mickealson',
+        email:'Amine@gmail.com',
+        robot: 'https://robohash.org/Amine',
     },
     {
         id: 9,
