@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/frontendreac/static/css/main.b2796e8f.chunk.css",
+    "main.js": "/frontendreac/static/js/main.aedc707e.chunk.js",
+    "main.js.map": "/frontendreac/static/js/main.aedc707e.chunk.js.map",
+    "runtime-main.js": "/frontendreac/static/js/runtime-main.bc2c8c7b.js",
+    "runtime-main.js.map": "/frontendreac/static/js/runtime-main.bc2c8c7b.js.map",
+    "static/css/2.f8399ec5.chunk.css": "/frontendreac/static/css/2.f8399ec5.chunk.css",
+    "static/js/2.da171a10.chunk.js": "/frontendreac/static/js/2.da171a10.chunk.js",
+    "static/js/2.da171a10.chunk.js.map": "/frontendreac/static/js/2.da171a10.chunk.js.map",
+    "index.html": "/frontendreac/index.html",
+    "precache-manifest.02fc4e569a42772c1a41db8696cfd670.js": "/frontendreac/precache-manifest.02fc4e569a42772c1a41db8696cfd670.js",
+    "service-worker.js": "/frontendreac/service-worker.js",
+    "static/css/2.f8399ec5.chunk.css.map": "/frontendreac/static/css/2.f8399ec5.chunk.css.map",
+    "static/css/main.b2796e8f.chunk.css.map": "/frontendreac/static/css/main.b2796e8f.chunk.css.map",
+    "static/js/2.da171a10.chunk.js.LICENSE": "/frontendreac/static/js/2.da171a10.chunk.js.LICENSE",
+    "static/media/App.css": "/frontendreac/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc2c8c7b.js",
+    "static/css/2.f8399ec5.chunk.css",
+    "static/js/2.da171a10.chunk.js",
+    "static/css/main.b2796e8f.chunk.css",
+    "static/js/main.aedc707e.chunk.js"
+  ]
+}
